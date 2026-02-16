@@ -1,44 +1,92 @@
 # 100 Days of Deep Learning – Handwritten Learning Notes
 
-These are my **structured handwritten notes** from the **100 Days of Deep Learning** playlist by **CampusX (Nitish Kumar)**.
+These are my structured handwritten notes from the popular 
+"100 Days of Deep Learning" playlist by CampusX (Nitish Singh).
 
-The series is divided into **three parts**, and these notes follow the video sequence for clarity and ease of revision.
+I created these notes for revision, clarity, and concept reinforcement 
+while going through the full series.
 
-All notes are shared for **educational purposes** to help learners follow along and reinforce deep learning concepts.
+The journey is divided into three logical parts.
 
-## Parts Overview
+---
 
-### Part 1: Fundamentals of Deep Learning
-**Currently Available**
+## Part 1/3 – Deep Learning Notes (Fundamentals)
 
-**Topics Covered:**
-- Course Introduction & Announcement
-- What is Deep Learning? Deep Learning vs. Machine Learning
-- Types of Neural Networks | Applications
-- What is a Perceptron? Perceptron vs Neuron | Perceptron Geometric Intuition
-- Perceptron Trick | How to train a Perceptron
-- Perceptron Loss Function | Hinge Loss | Binary Cross Entropy | Sigmoid Function
-- Problem with Perceptron
-- MLP Notation
-- Multi Layer Perceptron (MLP) Intuition
-- MLP Deep Dive
+Topics Covered:
 
-### Part 2: [Title to be added]
-**Coming Soon**
+• What is Deep Learning vs Machine Learning  
+• Types & History of Neural Networks  
+• Perceptron Intuition & Geometry  
+• Perceptron Trick & Training  
+• Loss Functions (Hinge Loss, Binary Cross Entropy)  
+• Sigmoid Function  
+• Limitations of Perceptron  
+• MLP Notation  
+• Multi-Layer Perceptron (MLP) Intuition  
 
-### Part 3: [Title to be added]
-**Coming Soon**
+---
+
+## Part 2/3 – Deep Learning Notes (How Neural Networks Learn)
+
+Topics Covered:
+
+• Forward Propagation  
+• Loss Functions in Deep Learning  
+• Backpropagation  
+• Gradient Descent and its Types  
+• MLP Memoization  
+• Vanishing Gradient Problem in ANN  
+
+---
+
+## Part 3/3 – Deep Learning Notes (Neural Network Optimization & Performance)
+
+Topics Covered:
+
+• Early Stopping  
+• Data / Feature Scaling  
+• Dropout Layers  
+• Regularization (L1 / L2 / Weight Decay)  
+• Activation Functions & ReLU Variants  
+• Weight Initialization (Xavier / He)  
+• Batch Normalization  
+• Optimizers – SGD with Momentum, Nesterov Accelerated Gradient (NAG), 
+  AdaGrad, RMSProp, Adam Optimizer  
+
+---
+
+## Bonus Notes
+
+Some additional notes may include:
+
+• Convolutional Neural Networks (CNN)  
+• Transformers & Attention Mechanisms  
+
+---
 
 ## Original Playlist
 
-All content is based on the **100 Days of Deep Learning** series by CampusX:  
-[Watch the full playlist here](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+All concepts are based on:
+
+100 Days of Deep Learning – CampusX
+
+https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+
+---
 
 ## Credits
 
-All conceptual credit goes to **CampusX** and **Nitish Kumar**.  
-These notes are compiled for learning and revision purposes only.
+All conceptual credit goes to CampusX and Nitish Singh.
+
+These notes are compiled strictly for learning & revision purposes.
+
+---
 
 ## Connect with Me
 
-You can connect with me on **[LinkedIn](https://www.linkedin.com/in/tarun-negi-232258200/)** for updates on future parts, discussions, and more learning 
+Feel free to connect with me on LinkedIn:
+
+https://www.linkedin.com/in/tarun-negi-232258200/
+
+---
+
